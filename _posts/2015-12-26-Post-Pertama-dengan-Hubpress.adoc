@@ -1,0 +1,3 @@
+= Post Pertama dengan Hubpress
+
+Dari berbagai macem pilihan dari https://www.staticgen.com/, pilihan akhirnya jatuh kepada *Hubpress*. Ga tau juga kenapa Hubpress, cuma sejauh ini Hubpress masih nyaman untuk digunakan.
