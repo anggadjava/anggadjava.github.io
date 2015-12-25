@@ -6,3 +6,6 @@ image::http://hubpress.io/img/logo.png[]
 
 
 Dari berbagai macem pilihan dari https://www.staticgen.com/, pilihan akhirnya jatuh kepada *Hubpress*. Ga tau juga kenapa Hubpress, cuma sejauh ini Hubpress masih nyaman untuk digunakan. +
+
+Dokumentasi : https://github.com/anggadjava/hubpress.io/blob/master/README.adoc +
+AsciiDoc Writer’s Guide : http://asciidoctor.org/docs/asciidoc-writers-guide/
