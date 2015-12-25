@@ -1,5 +1,5 @@
 = Post Pertama dengan Hubpress
-
+:hp-tags: HubPress, Pramusinta Anggara
 
 
 image::http://hubpress.io/img/logo.png[]
