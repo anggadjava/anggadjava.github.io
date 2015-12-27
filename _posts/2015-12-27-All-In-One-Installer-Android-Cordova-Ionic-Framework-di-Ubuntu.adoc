@@ -23,3 +23,5 @@ Script ini akan menginstall :
 Semuanya akan diinstall di */opt* direktori. Setelah proses installasi selesai kamu harus merestart session ubuntu.
 
 
+
+source : https://blog.nraboy.com/2014/09/install-android-cordova-ionic-framework-ubuntu/
