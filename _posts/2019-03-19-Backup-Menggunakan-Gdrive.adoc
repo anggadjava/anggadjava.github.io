@@ -1,0 +1,31 @@
+= Backup Menggunakan Gdrive
+:hp-tags: Ubuntu, Backup
+
+* Download Gdrive
+[source,bash]
+----
+https://github.com/gdrive-org/gdrive
+----
+
+* Ganti nama uc?xxx ke gdrive
+* buat executable
+[source,bash]
+----
+chmod +x gdrive
+----
+* Install Gdrive 
+
+[source,bash]
+----
+install gdrive /usr/local/bin/gdrive
+----
+
+* ketik gdrive list
+
+* Copas ke browser
+* dapetin verivication code
+* paste di terminal
+* tes upload
+
+
+
